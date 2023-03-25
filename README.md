@@ -12,8 +12,11 @@ Literature Review
 Several studies have been conducted in the area of flow control using DRL, some of which are referenced below:
 
 Lu, Q., Huang, J., & Qin, N. (2020). Flow control with deep reinforcement learning: a review. Applied Mechanics Reviews, 72(2), 020802.
+
 Shotorban, B., Malekzadeh, K., & Roshanian, J. (2020). Control of a circular cylinder wake using deep reinforcement learning. Journal of Fluids and Structures, 98, 103107.
+
 Zhang, C., Wang, L., Li, Y., & Zhu, Z. (2021). DRLinFluids: An open-source Python platform of coupling deep reinforcement learning and OpenFOAM. Computer Physics Communications, 263, 107929.
+
 Nakata, T., Fukami, K., & Morinishi, Y. (2020). Active flow control of a circular cylinder using deep reinforcement learning. Physics of Fluids, 32(1), 015112.
 Duraisamy, K., Iaccarino, G., & Xiao, H. (2019). Reinforcement learning for flow control: A review of challenges and opportunities. Journal of Fluid Mechanics, 859, P1.
 
