@@ -1,4 +1,6 @@
-# Active Flow Control of a 2D Cylinder using Deep Reinforcement Learning
+# Machine Learning Engineering
+
+### Active Flow Control of a 2D Cylinder using Deep Reinforcement Learning
 
 This repository contains code for implementing a deep reinforcement learning algorithm to control the flow around a 2D circular cylinder. The objective is to minimize the drag force acting on the cylinder by manipulating the flow using an optimal control policy learned through reinforcement learning.
 
